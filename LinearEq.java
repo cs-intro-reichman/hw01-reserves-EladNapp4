@@ -12,6 +12,6 @@ public class LinearEq {
 		double num3 = Double.parseDouble(args[2]);
 
 		System.out.println(num1 + " * x + " + num2 + " = " + num3);
-		System.out.println("X = " + ((num3 - num2) / num1));
+		System.out.println("x = " + ((num3 - num2) / num1));
 	}
 }
